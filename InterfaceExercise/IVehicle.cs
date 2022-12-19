@@ -8,7 +8,7 @@ using System.Xml.Schema;
 
 namespace InterfaceExercise
 {
-    public interface ICompany 
+    public interface IVehicle 
     {
         public double EngineSize { get; set; }
         public string Make { get; set; }
